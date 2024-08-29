@@ -1,0 +1,31 @@
+<html    lang="pt-br"> 
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Gatos e Sopa</title>
+</head>
+
+<body>
+
+    <header>GATOS E SOPA</header>
+
+    <section>
+        <div>
+            <h1>Como funciona o jogo Gatos e sopa</h1>
+            <p>#Gatos e sopa</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1Oj1GjVxAQg?si=dTPX7HUUYZzdDVyl"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div>
+        <iframe></iframe>
+            </div>
+    </section>
+
+</body>
+
+</html>
